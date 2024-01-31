@@ -8,7 +8,7 @@ const[increment,setIncrement]=useState(0);
 const[decrement,setDecrement]=useState(0);
 
 const increase=()=>{
-  setValue(value+3);
+  setValue(value+1);
 
 }
 const decrease=()=>{
